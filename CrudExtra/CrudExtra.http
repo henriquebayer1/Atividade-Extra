@@ -1,0 +1,6 @@
+@CrudExtra_HostAddress = http://localhost:5008
+
+GET {{CrudExtra_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
